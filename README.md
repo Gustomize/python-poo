@@ -1,6 +1,13 @@
-# POO com Python
+# 1. POO com Python
 
-## Classes e Objetos
+- [1. POO com Python](#1-poo-com-python)
+  - [1.1. Classes e Objetos](#11-classes-e-objetos)
+  - [1.2. Atributos e Metódos](#12-atributos-e-metódos)
+  - [1.3. Abstração e Encapsulação](#13-abstração-e-encapsulação)
+  - [1.4. Herança](#14-herança)
+  - [1.5. Polimorfismo](#15-polimorfismo)
+
+## 1.1. Classes e Objetos
 
 Uma classe pode ser considerado um agrupamento lógico de atributos e funções.
 
@@ -15,7 +22,7 @@ Um objeto é uma instância de uma classe que possui acesso aos tatributos e mé
 minha_instancia = MinhaClasse()
 ```
 
-## Atributos e Metódos
+## 1.2. Atributos e Metódos
 
 Membros de dados são atributos declarados dentro de uma classe. São propriedades que definem melhor uma classe. Existem dois tipos de atributos: atributos de classe e atributos de instância.
 
@@ -104,7 +111,7 @@ class Employee:
 employee = Employee()
 ```
 
-## Abstração e Encapsulação
+## 1.3. Abstração e Encapsulação
 
 Abstração é o processo de etapas seguidas para alcançar
 encapsulamento.
@@ -112,7 +119,7 @@ encapsulamento.
 Já ocultar os detalhes de implementação do usuário final é chamado
 de encapsulamento.
 
-## Herança
+## 1.4. Herança
 
 Herdar os atributos e métodos de uma classe base em uma classe derivada é chamado de Herança.
 
@@ -182,7 +189,7 @@ As convenções de nomenclatura usadas para membros privados, protegidos e públ
 |       Protegido       | `_nome`  |
 |        Público        |  `nome`  |
 
-## Polimorfismo
+## 1.5. Polimorfismo
 
 A mesma interface existente em diferentes formas é chamada
 polimorfismo.
